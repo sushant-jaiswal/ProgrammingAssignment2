@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-
+## testing git hub commit
 makeCacheMatrix <- function(x = matrix()) {
 
 }
